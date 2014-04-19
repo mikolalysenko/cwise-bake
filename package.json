@@ -1,0 +1,23 @@
+{
+  "name": "cwise-bake",
+  "version": "0.0.0",
+  "description": "Bakes cwise calls to serializable json",
+  "main": "bake.js",
+  "dependencies": {
+    "cwise-parser": "~0.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mikolalysenko/cwise-bake.git"
+  },
+  "author": "Mikola Lysenko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mikolalysenko/cwise-bake/issues"
+  },
+  "homepage": "https://github.com/mikolalysenko/cwise-bake"
+}
